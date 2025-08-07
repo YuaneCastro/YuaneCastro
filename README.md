@@ -17,6 +17,8 @@
 ##
 
 [![YuaneCastro's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuaneCastro&show_icons=true&title_color=ff69b4&icon_color=ffd700&text_color=00bfff&bg_color=2c003e)](https://github.com/YuaneCastro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuaneCastro&layout=compact&title_color=ff69b4&text_color=00bfff&bg_color=2c003e)](https://github.com/YuaneCastro/github-readme-stats)
+
 
 
 ##
