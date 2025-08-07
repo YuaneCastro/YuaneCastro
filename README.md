@@ -17,6 +17,7 @@
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuaneCastro)](https://github.com/YuaneCastro/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Somenteisso&show_icons=true&title_color=ff69b4&icon_color=ffd700&text_color=00bfff&bg_color=2c003e)
 
 ##
 <div> 
